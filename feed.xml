@@ -3,114 +3,142 @@
 <head>
 <meta charset="UTF-8">
 <title>Privacy Policy</title>
-<meta name="title" content="Privacy Policy">
-<meta name="DC.title" lang="en" content="Privacy Policy">
+<meta name="title" content="Privacy Policy ">
+<meta name="DC.title" lang="en" content="Privacy Policy ">
 <meta name="description" content="">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <link rel="canonical" href="privacy-policy.html">
-<link rel="shortcut icon"  href="img/whatsappimage2024-11-30at165838.jpeg"/>
+<link rel="shortcut icon"  href="img/"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
- <style>
-   
-        .navbar-custom {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 0.5rem 1rem;
-        }
-        .navbar-left {
-            justify-content: flex-start;
-        }
-        .navbar-left .links {
-            margin-left: auto;
-        }
-        .navbar-center {
-            justify-content: center;
-            text-align: center;
-        }
-        .navbar-center .links {
-            display: inline-block;
-            margin: 0 auto;
-        }
-        .parallax {
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
+<style type="text/css"> 
+.display-2{
+font-size: 45.2px;
 }
-.overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 0;
+.btn-md{
+padding:15.1px 29.6px;
+border-radius: 0;
 }
-.overlay-content {
-    position: relative;
-    z-index: 0;
+.d0717a9a5520042e1e61b206df7ca5273{
+font-size:19.9px;
+padding:10px;
+color: black;
 }
-
+.navbar a{
+font-size: 17.9px;
+}
+.y6c96e0f9698ac414fed89d46ed145a3a{
+text-decoration: underline!important;
+}
+.underline .line{
+width: 5rem;
+height: 3px;
+background: linear-gradient(90deg, #ae98ff,#ff5c65);
+display: inline-block;
+}
+.nav-link{
+color: #080808 !important;
+}
+.nav-item{
+margin-top: 10.3px;
+margin-bottom: 9.5px;
+padding-left: 7px;
+padding-right: 6.6px;
+}
+li a{
+color: #ff565f;
+}
+.d0717a9a5520042e1e61b206df7ca5273 i:hover{
+background: black;
+color:#ffdfe3;
+border-radius: 50%;
+width:10mm;
+text-align:center;
+height:10mm;
+}
+.d0717a9a5520042e1e61b206df7ca5273 i{
+border-radius: 50%;
+width: 10mm;
+text-align: center;
+line-height: 37px;
+height: 10mm;
+}
+footer{
+padding-top:60.2px;
+padding-bottom:60.4px;
+}
+.dab1e24426ada65e8145b102f1843fce4{
+background: rgba(0,0,0,0.6);
+text-align: center;
+}
+a{
+text-decoration: none!important;
+}
+.v7e4513929969ae74b8d2a11aa007bfce:hover{
+background-size: 100% 100%!important;
+color:#fecbcf!important;
+background:#ffffff!important;
+background-repeat: no-repeat!important;
+background-position: 0 90%!important; 
+transition: background-size 0.2s ease-in!important;
+}
+*{
+font-family: 'Poppins', sans-serif;
+}
+ul{
+list-style: circle;
+}
+footer ul{
+padding-left: 0px!important;
+list-style: none;
+}
+.ye7e699b548512dc5efd254a58b5c31db{
+background-color:#fe5270!important;
+border-color:#fe5270!important;
+color:#ffffff!important;
+}
+footer *{
+font-size:19px!important;
+color:#8a8a8a!important;
+line-height: 1.5;
+}
+footer a{
+color:  #8a8a8a!important;
+text-decoration: underline!important;
+}
+.dab1e24426ada65e8145b102f1843fce4 *{
+color:white!important;
+}
+.align-self-stretch{
+ms-flex-item-align: stretch!important;
+align-self: stretch!important;
+}
 </style>
 </head>
 <body>
-
-        <style>
-        .navbar-custom a:hover{
-                color:#fd834c!important;
-                background-color:#ffffff;
-        }
-
-        </style>
-        <nav class="navbar-custom" style="
-            background-color: #ffffff; 
-            color: #000000; 
-            height: 150px; 
-            font-size: 16px; 
-            font-family: Poppins; 
-            box-shadow: ;
-            
-            padding-left:50px;
-            padding-right:0px;
-             
-        ">
-            <div class="container" style="display: flex; align-items: center; justify-content: space-between; height: 100%;">
-                <div style="height:px; width:px;"><img src="image.php?name=whatsappimage2024-11-30at165838.jpeg&id=1677243862674edac3205185.48338096" alt="Logo" style="height:230px;width:212px"></div>
-                <div class="links ml-4" style="display: flex; flex: 1; justify-content: flex-end; align-items: center;">
-                    
-                <div class="dropdown">
-                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLinkGARDINBUS" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #000000; margin-right: 40px;">
-                        GARDINBUS
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink$GARDINBUS" style="background-color: #ffffff;">
-                        <a class="dropdown-item" href="index.html" style="color: #000000;">Home</a>
-                    </div>
-                </div>
-            
-                <div class="dropdown">
-                    <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLinkPRODUKTER" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #000000; margin-right: 40px;">
-                        PRODUKTER
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink$PRODUKTER" style="background-color: #ffffff;">
-                        <a class="dropdown-item" href="index.html" style="color: #000000;">Gardiner Aalborg</a>
-                    </div>
-                </div>
-            <a href="index.html" style="color: #000000; margin-right: 40px;">BESTIL GARDINBUS</a><a href="tel:70848190" style="color: #000000; margin-right: 40px;">TLF: 70 84 81 90</a><a href=".html" style="color: #000000; margin-right: 40px;">test</a>
-                </div>
-            </div>
-        </nav>
-    </nav>
-
-<section class="container" style="min-height: 80vh;">
+<nav class="navbar navbar-expand-lg">
+<a class="navbar-brand" href="index.html"  >
+</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon"></span>
+</button><div class="navbar-collapse collapse" id="navbarSupportedContent">
+<ul class="align-items-center ml-auto navbar-nav">
+<li class="nav-item"><a class="v7e4513929969ae74b8d2a11aa007bfce nav-link" href="index.html"  >test</a></li><li class="nav-item">
+<a class="v7e4513929969ae74b8d2a11aa007bfce nav-link" href="about-us.html" rel="nofollow" >About Us</a></li>
+</ul>
+</div>
+</nav>
+<div>
+<section class="container">
 <h1>Privacy Policy for </h1>
 <p>At  one of our main priorities is the privacy of our visitors.
- This Privacy Policy document contains types of information that is collected and recorded by  and how we use it. You can check out our main website here: </p>
+This Privacy Policy document contains types of information that is collected and recorded by  and how we use it. You can check out our main website here: </p>
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 <p>This Privacy Policy only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in . This policy is not applicable to any information collected offline or via channels other than this website. </p>
 <h2>Consent</h2>
@@ -169,4 +197,41 @@ This website is owned and published by:
 </br>
 </p>
 </section>
- 
+</div> 
+<footer>
+<div class="container">
+<div class="justify-content-center align-center row"> 
+<div class="col-md-3">
+<ul>
+<li><a class="v7e4513929969ae74b8d2a11aa007bfce" href="sitemap.html" rel="nofollow">Sitemap</a></li>
+<li><a class="v7e4513929969ae74b8d2a11aa007bfce" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></li>
+<li><a class="v7e4513929969ae74b8d2a11aa007bfce" href="about-us.html" rel="nofollow">About Us</a></li>
+</ul></div></div></div>
+<hr>
+</div>
+</footer><script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function() {
+var dropdowns = document.querySelectorAll('.dropdown-hover');
+function showDropdown() {
+var dropdownMenu = this.querySelector('.dropdown-menu');
+dropdownMenu.style.display = 'block';
+}
+function hideDropdown() {
+var dropdownMenu = this.querySelector('.dropdown-menu');
+dropdownMenu.style.display = 'none';
+}
+function handleClick(event) {
+var target = event.target;
+window.location.href = target.getAttribute('href');
+}
+dropdowns.forEach(function(dropdown) {
+dropdown.addEventListener('mouseenter', showDropdown);
+dropdown.addEventListener('mouseleave', hideDropdown);
+var dropdownMenu = dropdown.querySelector('.dropdown-toggle');
+dropdownMenu.addEventListener('click', handleClick);
+});
+});
+</script>
+</footer>
+</body>
+</html>
